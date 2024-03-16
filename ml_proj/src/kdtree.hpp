@@ -8,6 +8,8 @@
 #include <deque>
 #include <iostream>
 
+#include "kdtree.h"
+
 using namespace std;
 
 template <int Dim>
